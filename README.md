@@ -1,0 +1,1 @@
+Jestem studentem informatyki z aktualnym tytułem technika. W wielu dziedzinach informatyki jestem juniorem, lecz bardzo chętnie rozwijam swoje umiejętności. Z dużą przyjemnością dowiaduję się kolejnych informacji oraz sposobów na wykonywanie konkretnych zadań. Interesuję się programowaniem w języku Java oraz c#.
